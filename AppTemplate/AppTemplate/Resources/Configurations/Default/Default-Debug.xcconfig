@@ -1,0 +1,13 @@
+//
+//  Default-Debug.xcconfig
+//  AppTemplate
+//
+//  Created by Home on 16.10.21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_BUNDLE_ID = com.bn.software.app-template-default.dev
+
+ENTITLEMENTS_FILE = AppTemplate/Resources/Entitlements/Default/Default-Debug.entitlements
